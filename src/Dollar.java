@@ -1,8 +1,8 @@
 public class Dollar {
 
-    int amount;
+    private int amount;
 
-    Dollar(int amount) {
+    public Dollar(int amount) {
         this.amount = amount;
     }
 
