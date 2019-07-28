@@ -1,5 +1,16 @@
 # ToDo
 
+## New ToDo list
+
+- $5 + 10 CHF = $10 if rate is 2:1
+- $5 + $5 = $10
+- Return Money from $5 + $5
+- ~~Bank.reduce(Money)~~
+- Reduce Money with conversion
+- Reduce(Bank, String)
+
+## Old ToDo list
+
 - $5 + 10 CHF = $10 if rate is 2:1
 - ~~$5 * 2 = $10~~
 - ~~Make "amount" private~~
@@ -17,7 +28,3 @@
 - ~~Currency?~~
 - ~~Delete testFrancMultiplication?~~
 
-## New ToDo list
-
-- $5 + 10 CHF = $10 if rate is 2:1
-- $5 + $5 = $10
